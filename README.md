@@ -1,10 +1,21 @@
+#TEAM REACT 54
+
+##Para instalar las dependencias favor de utilizar
+
+### `npm install`
+
+##Hasta el momento use
+
+*bootstrap
+*material-ui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run (PARA ARRANCAR EL SERVER LOCAL):
 
 ### `npm start`
 
